@@ -1,5 +1,4 @@
-ADITYA KUMAR MISHRA
-**************************************************************
+
 The Login_page directory supports the google oAuth2.0 where the users are tracked based on there session 
 and this folder cotains the code for the Admin login which has functionallity of google login 
 npm start
